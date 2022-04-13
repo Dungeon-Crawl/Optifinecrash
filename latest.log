@@ -1,0 +1,159 @@
+[08:42:44] [main/INFO]: ModLauncher running: args [--username, RobinSongBoi, --version, forge-36.2.34, --gameDir, C:\Users\nh12w\curseforge\minecraft\Instances\Curcial, --assetsDir, C:\Users\nh12w\curseforge\minecraft\Install\assets, --assetIndex, 1.16, --uuid, 02c5939765fe4cf3b8410c7ce727ab1e, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[08:42:44] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[08:42:44] [main/WARN]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[08:42:44] [main/INFO]: OptiFineTransformationService.onLoad
+[08:42:44] [main/INFO]: OptiFine ZIP file: C:\Users\nh12w\curseforge\minecraft\Instances\Curcial\mods\OptiFine_1.16.5_HD_U_G8_MOD.jar
+[08:42:44] [main/INFO]: Target.PRE_CLASS is available
+[08:42:44] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[08:42:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/nh12w/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[08:42:44] [main/INFO]: OptiFineTransformationService.initialize
+[08:42:47] [main/INFO]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[08:42:48] [main/INFO]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[08:42:48] [main/INFO]: OptiFineTransformationService.transformers
+[08:42:48] [main/INFO]: Targets: 311
+[08:42:49] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[08:42:49] [main/ERROR]: Mixin config mixins.homing_ender_eye.json does not specify "minVersion" property
+[08:42:50] [main/ERROR]: Mixin config antiqueatlas.mixins.json does not specify "minVersion" property
+[08:42:50] [main/ERROR]: Mixin config minetogether.mixins.json does not specify "minVersion" property
+[08:42:50] [main/INFO]: Successfully loaded Mixin Connector [org.infernalstudios.infernalexp.mixin.MixinConnector]
+[08:42:50] [main/INFO]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[08:42:50] [main/INFO]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[08:42:50] [main/INFO]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[08:42:50] [main/INFO]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[08:42:50] [main/INFO]: Launching target 'fmlclient' with arguments [--version, forge-36.2.34, --gameDir, C:\Users\nh12w\curseforge\minecraft\Instances\Curcial, --assetsDir, C:\Users\nh12w\curseforge\minecraft\Install\assets, --uuid, 02c5939765fe4cf3b8410c7ce727ab1e, --username, RobinSongBoi, --assetIndex, 1.16, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[08:42:50] [main/INFO]: Reloading configs...
+[08:42:50] [main/INFO]: Loading of features.ini done in 17.93 ms with 0 warnings
+[08:42:50] [main/ERROR]: Cannot look up value for config key general.runtime_checks with no default
+[08:42:50] [main/WARN]: Forgery is about to inject into Mixin to add support for failsoft mixins.
+[08:42:50] [main/WARN]: THE FOLLOWING WARNINGS ARE NOT AN ERROR AND DO NOT IMPLY FORGERY IS RESPONSIBLE FOR A CRASH.
+[08:42:50] [main/WARN]: Overriding InjectionInfo for @Inject with com.unascribed.fabrication.support.injection.FailsoftCallbackInjectionInfo (previously org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo)
+[08:42:50] [main/WARN]: Overriding InjectionInfo for @ModifyArg with com.unascribed.fabrication.support.injection.FailsoftModifyArgInjectionInfo (previously org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo)
+[08:42:50] [main/WARN]: Overriding InjectionInfo for @ModifyArgs with com.unascribed.fabrication.support.injection.FailsoftModifyArgsInjectionInfo (previously org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo)
+[08:42:50] [main/WARN]: Overriding InjectionInfo for @Redirect with com.unascribed.fabrication.support.injection.FailsoftRedirectInjectionInfo (previously org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo)
+[08:42:50] [main/WARN]: Overriding InjectionInfo for @ModifyVariable with com.unascribed.fabrication.support.injection.FailsoftModifyVariableInjectionInfo (previously org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo)
+[08:42:50] [main/WARN]: Overriding InjectionInfo for @ModifyConstant with com.unascribed.fabrication.support.injection.FailsoftModifyConstantInjectionInfo (previously org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo)
+[08:42:50] [main/WARN]: Injection complete.
+[08:42:50] [main/INFO]: Loaded configuration file for Sodium: 24 options available, 2 override(s) found
+[08:42:50] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[08:42:50] [main/INFO]: Loaded rule configuration file for RoadRunner: 81 options available, 0 override(s) found
+[08:42:52] [main/INFO]: Adding 'set_player_field' ASM patch...
+[08:42:52] [main/INFO]: Added 'set_player_field' ASM patch!
+[08:42:52] [main/INFO]: Patching LivingEntity#attackEntityFrom
+[08:42:52] [main/INFO]: Adding 'water_movement_slowdown_prevention' ASM patch...
+[08:42:52] [main/INFO]: Added 'water_movement_slowdown_prevention' ASM patch!
+[08:42:52] [main/INFO]: Adding 'add_custom_entity_collision' ASM patch...
+[08:42:52] [main/INFO]: Added 'add_custom_entity_collision' ASM patch!
+[08:42:53] [main/INFO]: Adding 'add_custom_entity_collision' ASM patch...
+[08:42:53] [main/INFO]: Added 'add_custom_entity_collision' ASM patch!
+[08:42:53] [main/INFO]: Transform: net/minecraft/client/renderer/model/ModelBakery
+[08:42:53] [main/INFO]: Patching ModelBakery#<init>
+[08:42:53] [main/INFO]: Transform: net/minecraft/client/renderer/WorldRenderer
+[08:42:54] [main/WARN]: Force-disabling mixin 'features.item.MixinItemRenderer' as rule 'mixin.features.item' (added by mods [quark]) disables it and children
+[08:42:54] [main/WARN]: Force-disabling mixin 'features.world_ticking.MixinClientWorld' as rule 'mixin.features.world_ticking' (added by mods [abnormals_core]) disables it and children
+[08:42:54] [main/INFO]: Adding 'reach_set_client_renderer' ASM patch...
+[08:42:54] [main/INFO]: Added 'reach_set_client_renderer' ASM patch!
+[08:42:54] [main/INFO]: Transform: net/minecraft/client/entity/player/AbstractClientPlayerEntity
+[08:42:54] [main/INFO]: Adding 'sun_brightness_client' ASM patch...
+[08:42:54] [main/INFO]: Added 'sun_brightness_client' ASM patch!
+[08:42:54] [main/INFO]: Adding 'on_block_change' ASM patch...
+[08:42:54] [main/INFO]: Added 'on_block_change' ASM patch!
+[08:42:54] [main/INFO]: Adding 'sun_brightness_server' ASM patch...
+[08:42:54] [main/INFO]: Added 'sun_brightness_server' ASM patch!
+[08:42:54] [main/INFO]: Adding 'render_particles' ASM patch...
+[08:42:54] [main/INFO]: Added 'render_particles' ASM patch!
+[08:42:54] [main/INFO]: Transform: net/minecraft/client/renderer/texture/AtlasTexture
+[08:42:56] [main/INFO]: Adding 'add_enchantment_helper_levels' ASM patch...
+[08:42:56] [main/INFO]: Added 'add_enchantment_helper_levels' ASM patch!
+[08:42:56] [main/INFO]: Adding 'add_enchantment_helper_enchantments' ASM patch...
+[08:42:56] [main/INFO]: Added 'add_enchantment_helper_enchantments' ASM patch!
+[08:42:56] [main/INFO]: Adding 'add_enchantment_helper_apply_modifier' ASM patch...
+[08:42:56] [main/INFO]: Added 'add_enchantment_helper_apply_modifier' ASM patch!
+[08:42:57] [main/INFO]: Adding 'on_block_change' ASM patch...
+[08:42:57] [main/INFO]: Added 'on_block_change' ASM patch!
+[08:42:57] [main/INFO]: Adding 'sun_brightness_server' ASM patch...
+[08:42:57] [main/INFO]: Added 'sun_brightness_server' ASM patch!
+[08:42:58] [main/INFO]: Transform: net/minecraft/network/datasync/EntityDataManager
+[08:42:58] [main/INFO]: Transform: net/minecraft/world/server/ChunkManager
+[08:42:59] [main/INFO]: Transform: net/minecraft/client/renderer/entity/layers/BipedArmorLayer
+[08:42:59] [main/INFO]: Transform: net/minecraft/client/renderer/FirstPersonRenderer
+[08:42:59] [main/INFO]: Patching ItemStack#onItemUse
+[08:42:59] [main/INFO]: Adding 'add_missing_tag_enchantment_tooltip' ASM patch...
+[08:42:59] [main/INFO]: Added 'add_missing_tag_enchantment_tooltip' ASM patch!
+[08:42:59] [main/INFO]: Adding 'add_enchantment_tooltip' ASM patch...
+[08:42:59] [main/INFO]: Added 'add_enchantment_tooltip' ASM patch!
+[08:43:00] [main/INFO]: Adding 'reach_set_server_entity_interact' ASM patch...
+[08:43:00] [main/INFO]: Added 'reach_set_server_entity_interact' ASM patch!
+[08:43:00] [main/INFO]: Adding 'allow_entity_interaction' ASM patch...
+[08:43:00] [main/INFO]: Added 'allow_entity_interaction' ASM patch!
+[08:43:00] [main/INFO]: Patching ItemStack#onItemUse
+[08:43:00] [main/INFO]: Adding 'add_missing_tag_enchantment_tooltip' ASM patch...
+[08:43:00] [main/INFO]: Added 'add_missing_tag_enchantment_tooltip' ASM patch!
+[08:43:00] [main/INFO]: Adding 'add_enchantment_tooltip' ASM patch...
+[08:43:00] [main/INFO]: Added 'add_enchantment_tooltip' ASM patch!
+[08:43:01] [main/INFO]: Transform: net/minecraft/client/renderer/entity/LivingRenderer
+[08:43:02] [main/INFO]: Patching DataPackRegistries#<init>
+[08:43:02] [main/INFO]: Patching LootTableManager#apply
+[08:43:02] [main/INFO]: Patching BlockModelShapes#getModelLocation
+[08:43:02] [main/INFO]: Transform: net/minecraft/client/renderer/entity/ItemRenderer
+[08:43:03] [main/INFO]: Transform: net/minecraft/client/entity/player/AbstractClientPlayerEntity
+[08:43:03] [main/INFO]: [net.minecraft.client.main.Main:handler$cdc000$awtHack:523]: [Screenshot to Clipboard] Setting java.awt.headless to false
+[08:43:03] [main/INFO]: Transform: net/optifine/reflect/ReflectorClass
+[08:43:04] [main/INFO]: Adding 'add_custom_entity_collision' ASM patch...
+[08:43:04] [main/INFO]: Added 'add_custom_entity_collision' ASM patch!
+[08:43:04] [main/INFO]: Adding 'on_block_change' ASM patch...
+[08:43:04] [main/INFO]: Added 'on_block_change' ASM patch!
+[08:43:04] [main/INFO]: Adding 'sun_brightness_server' ASM patch...
+[08:43:04] [main/INFO]: Added 'sun_brightness_server' ASM patch!
+[08:43:04] [main/INFO]: Patching BlockModelShapes#getModelLocation
+[08:43:04] [main/INFO]: Adding 'set_player_field' ASM patch...
+[08:43:04] [main/INFO]: Added 'set_player_field' ASM patch!
+[08:43:04] [main/INFO]: Patching LivingEntity#attackEntityFrom
+[08:43:04] [main/INFO]: Adding 'water_movement_slowdown_prevention' ASM patch...
+[08:43:04] [main/INFO]: Added 'water_movement_slowdown_prevention' ASM patch!
+[08:43:05] [main/INFO]: Transform: net/minecraft/client/renderer/WorldRenderer
+[08:43:05] [main/WARN]: Static binding violation: PRIVATE @Overwrite method func_228441_a_ in magnesium.mixins.json:features.chunk_rendering.MixinWorldRenderer cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[08:43:05] [main/WARN]: Static binding violation: PRIVATE @Overwrite method func_228437_a_ in magnesium.mixins.json:features.chunk_rendering.MixinWorldRenderer cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:39)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.lang.reflect.InvocationTargetException
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraftforge.fml.loading.FMLClientLaunchProvider.lambda$launchService$0(FMLClientLaunchProvider.java:51)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraftforge.fml.loading.FMLClientLaunchProvider$$Lambda$501/581359452.call(Unknown Source)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+[08:43:05] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 4 more
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:307)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at net.minecraft.crash.CrashReport.func_71504_g(CrashReport.java:101)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at net.minecraft.crash.CrashReport.<init>(CrashReport.java:54)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at net.minecraft.crash.CrashReport.func_230188_h_(CrashReport.java:425)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at net.minecraft.client.main.Main.main(Main.java:122)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 11 more
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector redirectGetFancyWeather()Z in magnesium.mixins.json:features.options.MixinWorldRenderer failed injection check, (0/1) succeeded. Scanned 1 target(s). Using refmap magnesium.refmap.json
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(InjectionInfo.java:468)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject$failsoft(gist.github.com/517e2d6d4c6a75303721b7e2e995a9f8)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1362)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1051)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:400)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[08:43:05] [main/INFO]: [java.lang.Throwable:printStackTrace:667]: 	... 26 more
